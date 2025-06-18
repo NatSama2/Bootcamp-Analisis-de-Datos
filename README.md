@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://media.licdn.com/dms/image/v2/D4D12AQHog1az9hYWCQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1675798972303?e=2147483647&v=beta&t=-LFq7IQecx2o3HrguELLi5-Vs6yXQnP0WBJbD9E60-A" alt="Logo" width="100" height="100" align="left">
+  <img src="https://img.icons8.com/fluency/100/artificial-intelligence.png" alt="Logo" width="100" height="100" align="left">
   Bootcamp
 </h1>
 <br>
